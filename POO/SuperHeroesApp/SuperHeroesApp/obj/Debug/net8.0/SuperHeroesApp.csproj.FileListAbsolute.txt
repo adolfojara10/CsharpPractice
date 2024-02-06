@@ -1,0 +1,14 @@
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.exe
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.deps.json
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.runtimeconfig.json
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\bin\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfoInputs.cache
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.AssemblyInfo.cs
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.csproj.CoreCompileInputs.cache
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.dll
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\refint\SuperHeroesApp.dll
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.pdb
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\SuperHeroesApp.genruntimeconfig.cache
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\POO\SuperHeroesApp\SuperHeroesApp\obj\Debug\net8.0\ref\SuperHeroesApp.dll

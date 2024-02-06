@@ -1,0 +1,14 @@
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.exe
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.deps.json
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.runtimeconfig.json
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.dll
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\bin\Debug\net8.0\PrimerEjemplo.pdb
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.AssemblyInfoInputs.cache
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.AssemblyInfo.cs
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.dll
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\refint\PrimerEjemplo.dll
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.pdb
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\PrimerEjemplo.genruntimeconfig.cache
+C:\Users\adolfo\OneDrive - Universidad Politecnica Salesiana\Cursos platzi\C#\LINQ\PrimerEjemplo\PrimerEjemplo\obj\Debug\net8.0\ref\PrimerEjemplo.dll
